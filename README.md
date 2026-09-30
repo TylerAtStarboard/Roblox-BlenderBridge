@@ -16,7 +16,7 @@ You can then upload everything in bulk if you want, which places a clone of the 
 - Should support meshes, texture, armature, and animations
 
 
-### Some of this(primarily the UI) was coded with AI
+### I used AI to help with some of this(primarily the UI) 
 
 Please report any issues or feedback!
 
