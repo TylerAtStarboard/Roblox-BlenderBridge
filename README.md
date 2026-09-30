@@ -9,9 +9,9 @@ Blender Bridge uses websockets and live-syncs meshes, textures, and armatures fr
 You can then upload everything in bulk if you want, which places a clone of the scene and swaps out all the contents with the new assets.
 
 
-- Roblox side links objects that have the same mesh geometry or texture etc into one object to upload and share the assetids
+- Roblox-side links objects that have the same mesh geometry or texture etc into one object to upload and share the assetids
 
-- Blender side saves assetid metadata under object properties, meaning if you update a mesh you can upload in roblox again as a new version via CreateAssetVersionAsync, instead of a new asset
+- Blender-side saves assetid metadata under object properties, meaning if you update a mesh you can upload in roblox again as a new version via CreateAssetVersionAsync, instead of a new asset
 
 - Should support meshes, texture, armature, and animations
 
