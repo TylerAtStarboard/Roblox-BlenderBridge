@@ -1,12 +1,16 @@
 # Roblox-BlenderBridge
 
-Preview or upload mesh, texture, and armatures to roblox from blender easily(no OpenCloud API key needed!)
+
+Blender Bridge uses websockets and live-syncs meshes, textures, and armatures from your blender scene to roblox. 
+You can then upload everything in bulk if you want, which places a clone of the scene and swaps out all the contents with the new assets.
+
+*No OpenCloud API Key Needed!*
 
 https://github.com/user-attachments/assets/0fd9e9b8-c669-4dba-924c-cdd54c3ffda0
 
 
-Blender Bridge uses websockets and live-syncs meshes, textures, and armatures from your blender scene to roblox. 
-You can then upload everything in bulk if you want, which places a clone of the scene and swaps out all the contents with the new assets.
+https://github.com/user-attachments/assets/27973b9f-1ffa-40ab-9fb8-7b93d3036c9b
+
 
 
 - Roblox-side links objects that have the same mesh geometry or texture etc into one object to upload and share the assetids
