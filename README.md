@@ -24,4 +24,7 @@ Please report any issues or feedback!
 # Install 
 
 1. Grab the latest release from https://github.com/TylerAtStarboard/Roblox-BlenderBridge/releases
-2. Extract the folder to your PC, and read the readme
+2. Extract the folder to your PC
+3. Go to blender -> edit -> preferences, click the top right dropdown arrow, install from disk , then choose blender_bridge.zip 
+4. Drag BlenderBridge.rbxmx into studio. Right click. Save/Export -> Save As Local Plugin
+5. Open the plugin widget with the plugin toolbar button
