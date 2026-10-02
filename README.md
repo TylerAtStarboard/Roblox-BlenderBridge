@@ -1,5 +1,6 @@
 # Roblox-BlenderBridge
 
+## Make sure to turn on CreateAssetAsync beta in file -> beta features in studio in order to publish assets! 
 
 Blender Bridge uses websockets and live-syncs meshes, textures, and armatures from your blender scene to roblox. 
 You can then upload everything in bulk if you want, which places a clone of the scene and swaps out all the contents with the new assets.
