@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/27973b9f-1ffa-40ab-9fb8-7b93d3036c9b
 ### I used AI to help with some of this(primarily the UI) 
 
 Please report any issues or feedback!
-
+Hey man! My Name is Dynamexed. This Plugin was a LIFE CHANGER. I want to propose changes, though. How can we get in contact?
 
 # Install 
 
@@ -33,3 +33,4 @@ Please report any issues or feedback!
 3. Go to blender -> edit -> preferences, click the top right dropdown arrow, install from disk , then choose blender_bridge.zip 
 4. Drag BlenderBridge.rbxmx into studio. Right click. Save/Export -> Save As Local Plugin
 5. Open the plugin widget with the plugin toolbar button
+
